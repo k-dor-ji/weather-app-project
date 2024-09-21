@@ -1,4 +1,6 @@
 ## Steps to setup the environment:
 - Run `npm i`
 - Run `ng serve`
-![weatherApp](https://github.com/user-attachments/assets/dc96b6df-9359-4133-8d71-97c6de1303ce)
+
+##Demonstration
+![weatherApp](https://github.com/user-attachments/assets/d8c8a429-2f45-4292-9dc6-984259742da8)
