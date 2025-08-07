@@ -4,7 +4,7 @@
 
 # Weather App
 
-This is a weather application that provides current weather information and forecasts for major cities around the world. The app features a search function to find weather details based on user input.
+Designed using JavaScript, HTML, and CSS, this is a weather application purposed for providing accurate weather information and forecasts for major cities around the world. The web application was developed using the agile development methodology and includes multiple features.
 
 ## Features
 
@@ -14,9 +14,9 @@ This is a weather application that provides current weather information and fore
 
 ## Technologies Used
 
-- **React**: For building the user interface.
-- **CSS**: For styling the components.
-- **OpenWeather API**: To fetch weather data.
+- **React**: For designing user interfaces.
+- **HTML and CSS**: Web components and styling.
+- **OpenWeather API**: To collect and present weather data.
 
 ## Getting Started
 
